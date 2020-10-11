@@ -8,7 +8,7 @@ This is to build HA Proxy with some of its libraries statically linked.
 
 `./create-local-release.sh`
 
-The file is then in `build/bin/haproxy`
+The file is then in `build/haproxy/haproxy`
 
 # Create release
 
